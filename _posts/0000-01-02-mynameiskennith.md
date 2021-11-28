@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Unity we stand, divided we fall" - p
 Use the left arrow to go back!
